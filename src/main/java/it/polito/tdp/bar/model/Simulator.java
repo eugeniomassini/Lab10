@@ -136,7 +136,6 @@ public class Simulator {
 				return i;
 			}
 		}
-
 		return -1;
 	}
 
